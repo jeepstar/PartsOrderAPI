@@ -19,6 +19,6 @@ Use roughly around 4 hour on this assignment.
 
 # The result
 
-![Demo](demo.gif)
+![Demo](Demo.gif)
 
 -   Please reach out to me at naingaung351986@gmail.com
